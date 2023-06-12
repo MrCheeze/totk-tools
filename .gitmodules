@@ -1,0 +1,3 @@
+[submodule "totk-gamedata"]
+	path = totk-gamedata
+	url = https://github.com/McSpazzy/totk-gamedata.git
